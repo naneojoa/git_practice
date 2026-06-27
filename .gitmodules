@@ -1,0 +1,3 @@
+[submodule "submodule-test"]
+	path = submodule-test
+	url = file:///C:/Users/bogo/submodule-test.git
